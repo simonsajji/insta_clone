@@ -4,7 +4,7 @@ class Reels extends React.Component {
         return (
             <div className="Reels">
 
-               <div ><img src="image5.jpg"></img></div> 
+               <div ><img src="./image5.jpg"></img></div> 
                <div className='dec'>
 
                     <div><img src="image3.jpg"></img></div> 
