@@ -6,7 +6,7 @@ class Profile extends React.Component {
                 <div className="Profile">
 
                     <section className="section1">
-                        <div className="imgctn"> <img src="../src/images/leo3.jpg"></img> </div>
+                        <div className="imgctn"> <img src="./images/leo3.jpg"></img> </div>
                     </section>
                     <section className="section2">
 
@@ -35,15 +35,15 @@ class Profile extends React.Component {
 
                 <div className="posts">
 
-                    <img src="../src/images/image1.jpg"></img>
-                    <img src="../src/images/image2.jpg"></img>
-                    <img src="../src/images/image3.jpg"></img>
-                    <img src="../src/images/image4.jpg"></img>
-                    <img src="../src/images/image5.jpg"></img>
-                    <img src="../src/images/image6.jpg"></img>
-                    <img src="../src/images/image7.jpg"></img>
-                    <img src="../src/images/image8.jpg"></img>
-                    <img src="../src/images/image9.jpg"></img>
+                    <img src="./images/image1.jpg"></img>
+                    <img src="./images/image2.jpg"></img>
+                    <img src="./images/image3.jpg"></img>
+                    <img src="./images/image4.jpg"></img>
+                    <img src="./images/image5.jpg"></img>
+                    <img src="./images/image6.jpg"></img>
+                    <img src="./images/image7.jpg"></img>
+                    <img src="./images/image8.jpg"></img>
+                    <img src="./images/image9.jpg"></img>
 
                 </div>
 
